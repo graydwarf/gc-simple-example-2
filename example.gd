@@ -10,9 +10,6 @@ extends Node2D
 func _ready() -> void:
 	pass # Replace with function body.
 
-func GetYouTubeVideoId():
-	return "sadfasdfasdf"
-
 func GetReadMe():
 	return "A simple explanation to explain the script."
 
